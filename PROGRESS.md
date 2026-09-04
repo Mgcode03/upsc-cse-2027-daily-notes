@@ -10,3 +10,4 @@
 | 2026-09-01 | daily/2026-09-01.md | Amendment Art 368 and basic structure, President of India, climate regions of India, ordinance-ethics and climate economy, CSAT compounding-calendars-blood relations |
 | 2026-09-02 | daily/2026-09-02.md | Parliament structure Arts 79–122, Money Bills and joint sitting, map of States and neighbours, delimitation-ethics and border economy, CSAT permutations-sets-maps |
 | 2026-09-03 | daily/2026-09-03.md | Prime Minister and Council of Ministers Arts 74–78, Cabinet and 91st Amendment cap, kharif-rabi-zaid and farm economy, ministerial ethics, CSAT percentages-reservoirs-sets |
+| 2026-09-04 | daily/2026-09-04.md | Union judiciary Arts 124–147, judicial review and independence, minerals of India and mining economy, bench ethics, CSAT data-sufficiency-pipes-coding |

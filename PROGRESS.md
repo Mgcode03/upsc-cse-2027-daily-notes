@@ -12,3 +12,4 @@
 | 2026-09-03 | daily/2026-09-03.md | Prime Minister and Council of Ministers Arts 74–78, Cabinet and 91st Amendment cap, kharif-rabi-zaid and farm economy, ministerial ethics, CSAT percentages-reservoirs-sets |
 | 2026-09-04 | daily/2026-09-04.md | Union judiciary Arts 124–147, judicial review and independence, minerals of India and mining economy, bench ethics, CSAT data-sufficiency-pipes-coding |
 | 2026-09-05 | daily/2026-09-05.md | Federalism Arts 1, 245–263 and Seventh Schedule, Emergencies 352–360, population geography and demographic dividend, cooperative-federal ethics, CSAT time-speed-work-tables |
+| 2026-09-06 | daily/2026-09-06.md | Later Mughals and successor states, European trading companies, Plassey and Buxar, Indian Ocean ports and early colonial trade, private-trade ethics, CSAT series-coding-statements |

@@ -14,3 +14,4 @@
 | 2026-09-05 | daily/2026-09-05.md | Federalism Arts 1, 245–263 and Seventh Schedule, Emergencies 352–360, population geography and demographic dividend, cooperative-federal ethics, CSAT time-speed-work-tables |
 | 2026-09-06 | daily/2026-09-06.md | Later Mughals and successor states, European trading companies, Plassey and Buxar, Indian Ocean ports and early colonial trade, private-trade ethics, CSAT series-coding-statements |
 | 2026-09-07 | daily/2026-09-07.md | Dual government to Cornwallis-Wellesley, Permanent/Ryotwari/Mahalwari, Anglo-Mysore and Maratha wars, Deccan-Carnatic geography, administrative ethics, CSAT ratios-ages-syllogism |
+| 2026-09-08 | daily/2026-09-08.md | Charter Acts 1813–1833–1853, Bentinck social-legal reforms, Ranjit Singh and Anglo-Sikh wars, Dalhousie railways-DOctrine of Lapse, Punjab geography and annexation ethics, CSAT profit-loss-clocks-assumptions |

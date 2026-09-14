@@ -20,3 +20,4 @@
 | 2026-09-11 | daily/2026-09-11.md | Early nationalism and associations before INC; Indian National Congress 1885; Moderate methods 1885–1905; drain of wealth and deindustrialisation; presidency-city geography; petition ethics; CSAT time-work-percentages-syllogism |
 | 2026-09-12 | daily/2026-09-12.md | Partition of Bengal 1905, Swadeshi–Boycott, Extremists and Surat Split 1907, Muslim League 1906, delta geography and mill economy, means-and-ends ethics, CSAT mixtures-pipes-coding-syllogism |
 | 2026-09-13 | daily/2026-09-13.md | Morley-Minto 1909 and separate electorates, revolutionary groups 1907–1915, annulment and Delhi capital 1911, Ganga-Yamuna Doab and imperial-city geography, representation ethics, CSAT averages-boats-coding-syllogism |
+| 2026-09-14 | daily/2026-09-14.md | First World War and India, Ghadar, Home Rule Leagues, Lucknow Pact 1916, Montagu Declaration 1917, wartime geography and inflation ethics, CSAT time-work-percentages-syllogism |

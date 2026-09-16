@@ -22,3 +22,4 @@
 | 2026-09-13 | daily/2026-09-13.md | Morley-Minto 1909 and separate electorates, revolutionary groups 1907–1915, annulment and Delhi capital 1911, Ganga-Yamuna Doab and imperial-city geography, representation ethics, CSAT averages-boats-coding-syllogism |
 | 2026-09-14 | daily/2026-09-14.md | First World War and India, Ghadar, Home Rule Leagues, Lucknow Pact 1916, Montagu Declaration 1917, wartime geography and inflation ethics, CSAT time-work-percentages-syllogism |
 | 2026-09-15 | daily/2026-09-15.md | Rowlatt Act 1919, Jallianwala Bagh and Hunter Committee, Khilafat and Non-Cooperation 1920–22, Chauri Chaura, Punjab canal-colony geography and satyagraha ethics, CSAT time-work-percentages-syllogism |
+| 2026-09-16 | daily/2026-09-16.md | Swarajists vs No-Changers 1922–27, constructive programme, Khilafat collapse and mid-1920s communal drift, council-entry economy and means ethics, CSAT percentages-time-work-syllogism |
